@@ -1,2 +1,2 @@
-# Scrum_Simulaci-n
+# Scrum_Simulacion
 Laboratorio para simular un entorno scrum
